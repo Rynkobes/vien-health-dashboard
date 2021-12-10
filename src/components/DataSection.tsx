@@ -1,5 +1,5 @@
 import React from 'react'
-import {Flex, Progress} from '@chakra-ui/react'
+import {Flex, Progress } from '@chakra-ui/react'
 import DataCards from './DataCards'
 import Icon from '../assests/Icon.png'
 import PersonIcon from '../assests/PersonIcon.png'
